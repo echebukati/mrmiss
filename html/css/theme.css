@@ -1,0 +1,16 @@
+.bg-class {background:url(../images/assets/pattern_red.jpg);}
+.top_background_image {margin-left:-1000px;width: 2000px;height: 841px;background:url(../images/assets/background_red.jpg);}	
+.logoholder{position:absolute;top:50%;width:100%;margin-top:-330px;margin-left:-400px;}
+#sitelogo {position:relative;background:url(../images/standard/mrmisslogo.jpg) no-repeat;width:138px;height:88px;margin-left:auto;margin-right:auto;}
+#footer input[type='text']:hover{color: #ffffff}
+#footer input[type='text']:focus{color: #ffffff}
+.color-style, p.dropcap_color-style:first-letter {color: rgb(230, 0, 0)}  
+.button.color-style         { background-color: rgb(175, 0, 0);} 
+.button.color-style:hover   { background-color: rgb(175, 0, 0); }
+a{color: rgb(175, 0, 0)}
+.red, p.dropcap_red:first-letter{color: #ED7486 !important;}
+.reco {bottom: 0;color: #ffffff;position: absolute;}
+.reco a:link {text-decoration: none; color: #ffffff;}
+.reco a:visited {text-decoration: none; color: #ffffff;}
+.reco a:active {text-decoration: none; color: #ffffff;}
+.reco a:hover {text-decoration: underline; color: #ffffff;}

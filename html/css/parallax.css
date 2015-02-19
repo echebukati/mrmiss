@@ -1,0 +1,11 @@
+.parallax_world {margin: 0; padding: 0; border: 0; outline: 0; font-size: 100%; vertical-align: baseline; background: transparent; -webkit-user-select: none;-khtml-user-select: none;-moz-user-select: none;-o-user-select: none;user-select: none;overflow:visible !important;}
+#parallax-main-loader {background-image:url(../images/assets/parallax/loader/loader_round_blue.gif) !important;width:18px !important;height:18px !important;margin-left:auto !important;margin-right:auto !important;top:45% !important;z-index:99999 !important;position:relative !important;}
+.parallax_world_class{position:absolute;}
+.parallax_world_class a{outline:none;}
+.parallax_world_class img{border:0px;}
+.parallax_world_class img:visited{border:0px;decoration:none;}
+.parallax_world_class img:link{border:0px;decoration:none;}
+.parallax_world_class img:hover{border:0px;decoration:none;}
+.parallax_world .p_button{cursor:pointer;}
+.editor_background_parallax{background-color:#bfbfbf;position:absolute;margin-top:-150px;margin-left:-300px;}
+.noFilterClass {filter:none !important;}
